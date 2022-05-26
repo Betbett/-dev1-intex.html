@@ -1,6 +1,6 @@
 [Patika](https://www.patika.dev/)
 
-# intex.html
+# index.html
 
 <h1>Betül Çağlar</h1>
 <h2>Hakkımda</h2>
